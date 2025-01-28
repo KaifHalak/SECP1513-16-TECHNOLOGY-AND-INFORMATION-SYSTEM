@@ -1,4 +1,4 @@
-#reflection
+# reflection
 
 ### Reflection on Poster (Industrial Talk 1: Overview of ICT Jobs in CLARITY TECHWORKS SDN BHD)
 The talk provided a comprehensive overview of ICT roles, highlighting the importance of adapting to new technologies. It inspired me to focus on improving my skills in areas like web development and blockchain. The speaker’s advice on being a self-learner motivated me to explore online courses to keep up with industry trends.
